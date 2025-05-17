@@ -643,6 +643,7 @@ padding: 15px;
 background: var(--white-color);
 border-radius: var(--border-radius-medium);
 box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+background-color: #64deee31;
 }
 
 .featured-block:hover .featured-block-image {
